@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://karanmoyaje369.github.io/countdown-timer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
